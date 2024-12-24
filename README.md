@@ -1,4 +1,4 @@
-# hoopbuddyRepo
+# HoopBuddy
 
 Training contains the data I used to train various models.
 Models contain the models I utilize.
