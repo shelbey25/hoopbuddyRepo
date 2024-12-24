@@ -1,0 +1,4 @@
+train: /Users/shelbe/hoopbuddyRepo/training/YOLOV8LinesModel/dataset/train/images
+val: /Users/shelbe/hoopbuddyRepo/training/YOLOV8LinesModel/dataset/val/images
+nc: 3  # Number of classes (e.g., for a single feature like lines, set nc=1)
+names: ['endLine', 'freeThrow', 'lane']

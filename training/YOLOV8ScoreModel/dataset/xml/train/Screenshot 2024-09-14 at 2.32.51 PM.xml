@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hoop_detect</folder>
+	<filename>Screenshot 2024-09-14 at 2.32.51 PM.png</filename>
+	<path>/Users/shelbe/hoopbuddyRepo/training/Tensorflow/workspace/images/hoop_detect/Screenshot 2024-09-14 at 2.32.51 PM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hoop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>99</ymin>
+			<xmax>192</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

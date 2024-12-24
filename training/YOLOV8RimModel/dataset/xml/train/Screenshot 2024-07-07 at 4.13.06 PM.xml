@@ -1,0 +1,26 @@
+<annotation>
+	<folder>court_landmarks</folder>
+	<filename>Screenshot 2024-07-07 at 4.13.06 PM.png</filename>
+	<path>/Users/shelbe/hoopbuddyRepo/training/Tensorflow/workspace/images/collectedimages/court_landmarks/Screenshot 2024-07-07 at 4.13.06 PM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>358</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hoop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>166</ymin>
+			<xmax>220</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>
