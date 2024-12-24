@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1200xBall</folder>
+	<filename>Screenshot 2024-10-24 at 2.24.31 PM.png</filename>
+	<path>/Users/shelbe/hoopbuddyRepo/training/Tensorflow/workspace/images/1200xBall/Screenshot 2024-10-24 at 2.24.31 PM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2796</width>
+		<height>1356</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1560</xmin>
+			<ymin>315</ymin>
+			<xmax>1606</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

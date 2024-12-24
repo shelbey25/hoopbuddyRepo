@@ -1,0 +1,4 @@
+train: /Users/shelbe/hoopbuddyRepo/training/YOLOV8KeyModel/dataset/train/images
+val: /Users/shelbe/hoopbuddyRepo/training/YOLOV8KeyModel/dataset/val/images
+nc: 1  # Number of classes (e.g., for a single feature like lines, set nc=1)
+names: ['key']

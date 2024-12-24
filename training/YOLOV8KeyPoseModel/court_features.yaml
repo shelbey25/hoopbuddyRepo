@@ -1,0 +1,7 @@
+train: /Users/shelbe/hoopbuddyRepo/training/YOLOV8KeyPoseModel/dataset/train/images
+val: /Users/shelbe/hoopbuddyRepo/training/YOLOV8KeyPoseModel/dataset/val/images
+nc: 1  # Number of classes (e.g., for a single feature like lines, set nc=1)
+names: ['key']
+
+kpt_shape: [8, 3] # number of keypoints, number of dims (2 for x,y or 3 for x,y,visible)
+flip_idx: [0, 1, 2, 3, 4, 5, 6, 7]

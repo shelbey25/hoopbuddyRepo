@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bballCourt</folder>
+	<filename>Screenshot 2024-09-19 at 10.53.30 AM.png</filename>
+	<path>/Users/shelbe/hoopbuddyRepo/training/Tensorflow/workspace/images/bballCourt/Screenshot 2024-09-19 at 10.53.30 AM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2730</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>key</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>476</ymin>
+			<xmax>1553</xmax>
+			<ymax>782</ymax>
+		</bndbox>
+	</object>
+</annotation>
